@@ -44,7 +44,7 @@ If you use these materials, please cite:
 @inproceedings{ezemba2025organizationally,
   title={Organizationally-Intelligent Agents: Connecting Multi-Agent Engineering Systems to Organizational Design Theory},
   author={Ezemba, Jessica and McComb, Christopher and Tucker, Conrad},
-  booktitle={[Conference Name]},
+  article={Design Computing and Cognition'26},
   year={2025}
 }
 ```
